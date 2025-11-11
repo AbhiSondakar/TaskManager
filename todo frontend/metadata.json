@@ -1,5 +1,0 @@
-{
-  "name": "Task Manager",
-  "description": "A modern, Kanban-style task management application built with React and Tailwind CSS. It allows users to create, update, delete, and organize tasks with different priorities, statuses, and subtasks. Features include drag-and-drop functionality, filtering, sorting, and an intuitive UI.",
-  "requestFramePermissions": []
-}
